@@ -1,1 +1,1 @@
-# maathplotlib_homework
+# mathplotlib_homework
